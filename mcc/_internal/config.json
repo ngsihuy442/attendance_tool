@@ -1,0 +1,13 @@
+{
+    "ip": "192.168.1.13",
+    "port": "4370",
+    "url": "https://open-sg.larksuite.com/anycross/trigger/callback/NDQ5MzRhZDc0Mjc2Yjg4MWFiZTlhN2M1N2U4M2MxZTUw",
+    "run_at_startup": false,
+    "auto_enabled": false,
+    "auto_days": "7",
+    "auto_time": "23:00",
+    "auto_mode": "\ud83d\udcc5 H\u00e0ng ng\u00e0y (Daily)",
+    "auto_interval_value": "30",
+    "auto_interval_unit": "ph\u00fat",
+    "theme": "Dark"
+}
